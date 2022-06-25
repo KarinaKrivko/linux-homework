@@ -19,15 +19,4 @@
   18 $chmod u-r/tmp/file.txt
   19 $chmod /tmp/file.txt u-r
   20 $chmod u-r/tmp/file.txt
-  21 chmod u-r/tmp/file.txt
-  22 c
-  23 u-r
-  24 S chmod u-r /tmp/file.txt
-  25 chmod u-r /tmp/file.txt
-  26 chmod ugo+x
-  27 chmod ugo+x /tmp/file.txt
-  28 chmod u-r /tmp/file.txt
-  29 chmod ugo+x /tmp/file.txt
-  30 ls -la
-  31 ls -la /tmp
   32 history>/tmp/history.txt
